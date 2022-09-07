@@ -1,2 +1,3 @@
-# ejemplos_varios
-Repositorio con ejemplos varios con la solución a varios problemas.
+# Ejemplos varios...
+
+- [**Python**. Conexión a una base con `pyodbc`](ejemplo01/notebook.ipynb)
